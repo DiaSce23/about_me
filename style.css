@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600&family=Edu+VIC+WA+NT+Beginner:wght@700&family=IBM+Plex+Mono:wght@300&family=Loved+by+the+King&family=Luxurious+Roman&family=Pacifico&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600&family=Domine&family=Edu+VIC+WA+NT+Beginner:wght@700&family=IBM+Plex+Mono:wght@300&family=Loved+by+the+King&family=Luxurious+Roman&family=Pacifico&display=swap');
+
+* {
+    padding: 0;
+    /* margin: 0; */
+}
+
+
+body {
+    background: url(k5.gif);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    height: 100%;
+}
+
+div {
+    background-color: rgb(33, 61, 176);
+    font-size: 20px;
+    padding: 20px;
+    line-height: 30px;
+    text-align: justify;
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-family: 'IBM Plex Mono', monospace;
+
+}
+
+img {
+    max-width: 600px;
+    margin: auto;
+    display: block;
+    border: 3px solid rgb(149, 144, 156);
+    border-radius: 30px;
+}
+
+h1>img {
+    max-width: 600px;
+    margin: auto;
+    display: block;
+    border: 3px solid rgb(99, 99, 99);
+    border-radius: 100%;
+
+}
+
+/* audio {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+} */
+
+h2 {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+p {
+    text-align: center;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
